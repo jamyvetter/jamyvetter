@@ -1,4 +1,4 @@
-# 👋 Hello, I’m Jamy
+# 👋 Hi, I’m Jamy
 
 I’m currently a student at Esisar, part of the Grenoble INP engineering schools in France, with a strong background in embedded systems, digital design, and software development.
 
