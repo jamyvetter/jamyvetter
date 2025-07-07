@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Jamy
+# 👋 Hello, I’m Jamy
 
 I’m currently a student at Esisar, part of the Grenoble INP engineering schools in France, with a strong background in embedded systems, digital design, and software development.
 
@@ -14,8 +14,8 @@ I’m passionate about building and learning. Some of the areas I work on includ
 
 Feel free to reach out or follow my work:
 
-- [📎 LinkedIn](https://www.linkedin.com/in/your-linkedin-username)
-- [🌐 Blog](https://yourblogdomain.com)
+- [📎 LinkedIn](https://www.linkedin.com/in/jamyvetter)
+- [🌐 Blog](https://jamyvetter.net)
 - [✉️ Email](mailto:jamyvetter@outlook.com)
 
 
