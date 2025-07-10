@@ -12,6 +12,7 @@ I’m passionate about building and learning. Some of the areas I work on includ
 
 ## 📖 Blog posts
 - [The OWASP Foundation](https://jamyvetter.net/posts/the-owasp-foundation/)
+- [Boost your Git Game in WSL2 with a Smarter Bash Prompt](https://jamyvetter.net/posts/boost-your-git-game-in-wsl2-with-a-smarter-bash-prompt/)
 
 <br>
 
