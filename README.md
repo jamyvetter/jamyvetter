@@ -36,4 +36,6 @@ I’m passionate about building and learning. Some of the areas I work on includ
 
 <br>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/jamyvetter.png" alt="Your Image Badge" />
+
 Thanks for stopping by!
