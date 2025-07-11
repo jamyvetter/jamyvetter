@@ -32,11 +32,24 @@ I’m passionate about building and learning. Some of the areas I work on includ
   <a href="https://github.com/jamyvetter">
     <img align="right" src="https://komarev.com/ghpvc/?username=jamyvetter&label=Views&style=plastic&color=orange" alt="Profile Views">
   </a>
-  
+
+  <a href="https://leetcode.com/YOUR_USERNAME/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=white&labelColor=000000" alt="LeetCode Profile" />
+  </a>
+&nbsp;
+  <a href="https://tryhackme.com/p/jamyvetter">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=plastic&logo=tryhackme&logoColor=EE3642&labelColor=000000" alt="TryHackMe Profile" />
+  </a>
+&nbsp;
+  <a href="https://www.root-me.org/jamyvetter">
+    <img align="left" src="https://img.shields.io/badge/Root--Me-ffffff?style=plastic&color=000000&labelColor=ffffff" alt="Root-Me Profile" />
+  </a>
+</p>
+
+
+
 </p>
 
 <br>
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/jamyvetter.png" alt="Your Image Badge" />
 
 Thanks for stopping by!
