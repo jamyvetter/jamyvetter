@@ -3,16 +3,16 @@
 I’m currently a student at Esisar, part of the Grenoble INP engineering schools in France, with a strong background in embedded systems, digital design, and software development.
 
 ##  💡 What I do
-I’m passionate about building and learning. Some of the areas I work on include:
+I'm passionate about building and learning. Some of the areas I work on include:
 
-- 🌱 Designing smart embedded systems
-- 🔧 Digital design using Verilog and FPGA (Basys 3)
-- 💻 Developing websites using Hugo, Markdown, Git, and Linux
+- 🌱 Designing smart embedded systems (e.g., an automated greenhouse with Arduino and sensors)
+- 🔧 Digital design using **Verilog** and **FPGA (Basys 3)**
+- 💻 Building and maintaining my technical blog using **Hugo**, **Markdown**, **Git** for versioning and deployed online with **Cloudflare Pages**
 - 🧠 Always learning: I enjoy diving into algorithms, microcontrollers, and system-level programming
 
 ## 📖 Blog posts
 - [The OWASP Foundation](https://jamyvetter.net/posts/the-owasp-foundation/)
-- [Boost your Git Game in WSL2 with a Smarter Bash Prompt](https://jamyvetter.net/posts/boost-your-git-game-in-wsl2-with-a-smarter-bash-prompt/)
+- [How to Integrate Git Status Indicators into the Bash Prompt](https://jamyvetter.net/posts/how-to-integrate-git-status-indicators-into-the-bash-prompt/)
 
 <br>
 
