@@ -34,7 +34,7 @@ I'm passionate about building and learning. Some of the areas I work on include:
     <img align="right" src="https://komarev.com/ghpvc/?username=jamyvetter&label=Views&style=plastic&color=orange" alt="Profile Views">
   </a>
 
-  <a href="https://leetcode.com/YOUR_USERNAME/">
+  <a href="https://leetcode.com/u/jamyvetter/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=white&labelColor=000000" alt="LeetCode Profile" />
   </a>
 &nbsp;
