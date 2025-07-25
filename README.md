@@ -15,6 +15,8 @@ I'm passionate about building and learning. Some of the areas I work on include:
 - [How to Integrate Git Status Indicators into the Bash Prompt](https://jamyvetter.net/posts/how-to-integrate-git-status-indicators-into-the-bash-prompt/)
 - [Deploying OWASP Juice Shop: A Practical Installation Guide](https://jamyvetter.net/posts/deploying-owasp-juice-shop-a-practical-installation-guide/)
 - [Building a Continuous Integration Pipeline for Hugo with GitHub Actions](https://jamyvetter.net/posts/building-a-continuous-integration-pipeline-for-hugo-with-github-actions/)
+- [Enforcing Dynamic Security Testing in CI with OWASP ZAP](https://jamyvetter.net/posts/enforcing-dynamic-security-testing-in-ci-with-owasp-zap/)
+- [Enforcing Policy-as-Code Compliance in CI with OPA and Conftest](https://jamyvetter.net/posts/enforcing-policy-as-code-compliance-in-ci-with-opa-and-conftest/)
 <br>
 
 <p align="left">
