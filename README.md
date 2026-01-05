@@ -1,9 +1,11 @@
 
-**Engineering student at Esisar (Grenoble INP), currently exploring the crossroads of hardware, software, and cybersecurity.**
+### **Engineering student at Esisar (Grenoble INP), currently exploring the crossroads of hardware, software, and cybersecurity.**
 
-Currently in my second year of integrated preparatory studies, I am building a broad technical foundation with the aim of specializing in cybersecurity in the coming years. While my current academic path is rooted in embedded systems and digital design (FPGA), I have a growing interest in how we can automate and secure the modern development lifecycle.
+I am currently in my second year of integrated preparatory studies, building a broad technical foundation with the aim of specializing in cybersecurity in the coming years. While my academic path is rooted in embedded systems and digital design (FPGA), I have a growing interest in automating and securing the modern development lifecycle.
 
-This blog serves as my technical logbook. It is where I document my hands-on experiments, from low-level system monitoring to integrating DevSecOps tools like OPA and OWASP ZAP into CI/CD pipelines. My goal is to bridge the gap between hardware engineering and modern security practices.
+This blog serves as my technical logbook. I use this space to document my hands-on experiments, from low-level system monitoring to integrating DevSecOps tools like OPA and OWASP ZAP into CI/CD pipelines. My goal is to bridge the gap between hardware engineering and modern security practices.
+
+----
 
 *Stack: Built with Hugo, versioned with Git, and deployed via Cloudflare Pages.*
 
@@ -53,5 +55,3 @@ This blog serves as my technical logbook. It is where I document my hands-on exp
 </p>
 
 <br>
-
-Thanks for stopping by!
