@@ -1,14 +1,12 @@
-# 👋 Hello, I’m Jamy
 
-I’m currently a student at Esisar, part of the Grenoble INP engineering schools in France, with a strong background in embedded systems, digital design, and software development.
+**Engineering student at Esisar (Grenoble INP), currently exploring the crossroads of hardware, software, and cybersecurity.**
 
-##  💡 What I do
-I'm passionate about building and learning. Some of the areas I work on include:
+Currently in my second year of integrated preparatory studies, I am building a broad technical foundation with the aim of specializing in cybersecurity in the coming years. While my current academic path is rooted in embedded systems and digital design (FPGA), I have a growing interest in how we can automate and secure the modern development lifecycle.
 
-- 🌱 Designing smart embedded systems (e.g., an automated greenhouse with Arduino and sensors)
-- 🔧 Digital design using **Verilog** and **FPGA (Basys 3)**
-- 💻 Building and maintaining my technical blog using **Hugo**, **Markdown**, **Git** for versioning and deployed online with **Cloudflare Pages**
-- 🧠 Always learning: I enjoy diving into algorithms, microcontrollers, and system-level programming
+This blog serves as my technical logbook. It is where I document my hands-on experiments, from low-level system monitoring to integrating DevSecOps tools like OPA and OWASP ZAP into CI/CD pipelines. My goal is to bridge the gap between hardware engineering and modern security practices.
+
+*Stack: Built with Hugo, versioned with Git, and deployed via Cloudflare Pages.*
+
 
 ## 📖 Blog posts
 - [The OWASP Foundation](https://jamyvetter.net/posts/the-owasp-foundation/)
@@ -17,6 +15,7 @@ I'm passionate about building and learning. Some of the areas I work on include:
 - [Building a Continuous Integration Pipeline for Hugo with GitHub Actions](https://jamyvetter.net/posts/building-a-continuous-integration-pipeline-for-hugo-with-github-actions/)
 - [Enforcing Dynamic Security Testing in CI with OWASP ZAP](https://jamyvetter.net/posts/enforcing-dynamic-security-testing-in-ci-with-owasp-zap/)
 - [Enforcing Policy-as-Code Compliance in CI with OPA and Conftest](https://jamyvetter.net/posts/enforcing-policy-as-code-compliance-in-ci-with-opa-and-conftest/)
+- [Technical analysis: High availability monitoring on Raspberry Pi](https://jamyvetter.net/posts/technical-analysis-high-availability-monitoring-on-raspberry-pi/)
 <br>
 
 <p align="left">
