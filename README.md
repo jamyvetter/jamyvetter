@@ -1,6 +1,3 @@
-
-### **Engineering student at Esisar (Grenoble INP), currently exploring the crossroads of hardware, software, and cybersecurity.**
-
 I am currently in my second year of integrated preparatory studies, building a broad technical foundation with the aim of specializing in cybersecurity in the coming years. While my academic path is rooted in embedded systems and digital design (FPGA), I have a growing interest in automating and securing the modern development lifecycle.
 
 This blog serves as my technical logbook. I use this space to document my hands-on experiments, from low-level system monitoring to integrating DevSecOps tools like OPA and OWASP ZAP into CI/CD pipelines. My goal is to bridge the gap between hardware engineering and modern security practices.
