@@ -16,6 +16,7 @@ This blog serves as my technical logbook. I use this space to document my hands-
 - [Enforcing Policy-as-Code Compliance in CI with OPA and Conftest](https://jamyvetter.net/posts/enforcing-policy-as-code-compliance-in-ci-with-opa-and-conftest/)
 - [Uptime Kuma on Raspberry Pi: High-Availability Monitoring](https://jamyvetter.net/posts/uptime-kuma-on-raspberry-pi-high-availability-monitoring/)
 - [Beating ICANN Redemption Fees: Building an Automated Domain Drop Alerter with GitHub Actions, RFC 3915, and Controlled AI](https://jamyvetter.net/posts/beating-icann-redemption-fees-domain-drop-alerter/)
+- [Profiling LLM with OTel and Aspire](https://jamyvetter.net/posts/profiling-llm-with-otel-and-aspire/)
 <br>
 
 <p align="left">
