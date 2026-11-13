@@ -1,6 +1,6 @@
-I am currently in my second year of integrated preparatory studies, building a broad technical foundation with the aim of specializing in cybersecurity in the coming years. While my academic path is rooted in embedded systems and digital design (FPGA), I have a growing interest in automating and securing the modern development lifecycle.
+I am currently a third-year engineering student at Grenoble INP – Esisar, building a broad technical foundation focused on cybersecurity, systems & networking, and AI security. While grounded in low-level systems and embedded design, I have a strong interest in infrastructure automation, securing autonomous AI agents, and modern DevSecOps practices.
 
-This blog serves as my technical logbook. I use this space to document my hands-on experiments, from low-level system monitoring to integrating DevSecOps tools like OPA and OWASP ZAP into CI/CD pipelines. My goal is to bridge the gap between hardware engineering and modern security practices.
+This blog serves as my technical logbook. I use this space to document my hands-on experiments, from containerized Linux infrastructure and low-level system monitoring to integrating DevSecOps security gates and AI tooling into production workflows.
 
 ----
 
@@ -14,7 +14,8 @@ This blog serves as my technical logbook. I use this space to document my hands-
 - [Building a Continuous Integration Pipeline for Hugo with GitHub Actions](https://jamyvetter.net/posts/building-a-continuous-integration-pipeline-for-hugo-with-github-actions/)
 - [Enforcing Dynamic Security Testing in CI with OWASP ZAP](https://jamyvetter.net/posts/enforcing-dynamic-security-testing-in-ci-with-owasp-zap/)
 - [Enforcing Policy-as-Code Compliance in CI with OPA and Conftest](https://jamyvetter.net/posts/enforcing-policy-as-code-compliance-in-ci-with-opa-and-conftest/)
-- [Technical analysis: High availability monitoring on Raspberry Pi](https://jamyvetter.net/posts/technical-analysis-high-availability-monitoring-on-raspberry-pi/)
+- [Uptime Kuma on Raspberry Pi: High-Availability Monitoring](https://jamyvetter.net/posts/uptime-kuma-on-raspberry-pi-high-availability-monitoring/)
+- [Beating ICANN Redemption Fees: Building an Automated Domain Drop Alerter with GitHub Actions, RFC 3915, and Controlled AI](https://jamyvetter.net/posts/beating-icann-redemption-fees-domain-drop-alerter/)
 <br>
 
 <p align="left">
@@ -34,10 +35,12 @@ This blog serves as my technical logbook. I use this space to document my hands-
     <img align="right" src="https://komarev.com/ghpvc/?username=jamyvetter&label=Views&style=plastic&color=orange" alt="Profile Views">
   </a>
 
+  <!--
   <a href="https://leetcode.com/u/jamyvetter/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=white&labelColor=000000" alt="LeetCode Profile" />
   </a>
-&nbsp;
+  &nbsp;
+  -->
   <a href="https://tryhackme.com/p/jamyvetter">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=plastic&logo=tryhackme&logoColor=EE3642&labelColor=000000" alt="TryHackMe Profile" />
   </a>
@@ -45,10 +48,6 @@ This blog serves as my technical logbook. I use this space to document my hands-
   <a href="https://www.root-me.org/jamyvetter">
     <img align="left" src="https://img.shields.io/badge/Root--Me-ffffff?style=plastic&color=000000&labelColor=ffffff" alt="Root-Me Profile" />
   </a>
-</p>
-
-
-
 </p>
 
 <br>
